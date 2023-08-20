@@ -26,6 +26,15 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 
 -  [aula06 - constantes com const](https://github.com/LucianMontibeller/bootcamp-DIO/tree/main/Pot%C3%AAncia-Tech-powered-by-iFood-Ci%C3%AAncia-de-Dados/secao02-dominando-python-ciencia-de-dados/aula06-listas-python)
 
+-  [aula07 - constantes com const](https://github.com/LucianMontibeller/bootcamp-DIO/tree/main/Pot%C3%AAncia-Tech-powered-by-iFood-Ci%C3%AAncia-de-Dados/secao02-dominando-python-ciencia-de-dados/aula08-conjuntos-python)
+
+-  [aula08 - conjuntos-python](https://github.com/LucianMontibeller/bootcamp-DIO/tree/main/Pot%C3%AAncia-Tech-powered-by-iFood-Ci%C3%AAncia-de-Dados/secao02-dominando-python-ciencia-de-dados/aula08-conjuntos-python)
+
+-  [aula09 - dicionarios-python](https://github.com/LucianMontibeller/bootcamp-DIO/tree/main/Pot%C3%AAncia-Tech-powered-by-iFood-Ci%C3%AAncia-de-Dados/secao02-dominando-python-ciencia-de-dados/aula09-dicionarios-python)
+
+-  [aula10 - funcoes](https://github.com/LucianMontibeller/bootcamp-DIO/tree/main/Pot%C3%AAncia-Tech-powered-by-iFood-Ci%C3%AAncia-de-Dados/secao02-dominando-python-ciencia-de-dados/aula10-funcoes)
+
+-  [desafio-otimizando-sistema-bancario](https://github.com/LucianMontibeller/bootcamp-DIO/tree/main/Pot%C3%AAncia-Tech-powered-by-iFood-Ci%C3%AAncia-de-Dados/secao02-dominando-python-ciencia-de-dados/desafio-otimizando-sistema-bancario)
 
 
 
