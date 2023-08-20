@@ -24,7 +24,7 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 
 -  [aula05 - variáveis com let](https://github.com/LucianMontibeller/bootcamp-DIO/tree/main/Pot%C3%AAncia-Tech-powered-by-iFood-Ci%C3%AAncia-de-Dados/secao02-dominando-python-ciencia-de-dados/aula05-DESAFIO-sistema-bancario)
 
--  [aula06 - constantes com const](https://github.com/LucianMontibeller/bootcamp-DIO/tree/main/Pot%C3%AAncia-Tech-powered-by-iFood-Ci%C3%AAncia-de-Dados/secao02-dominando-python-ciencia-de-dados/aula06-listas-python)
+-  [aula06 - listas-python](https://github.com/LucianMontibeller/bootcamp-DIO/tree/main/Pot%C3%AAncia-Tech-powered-by-iFood-Ci%C3%AAncia-de-Dados/secao02-dominando-python-ciencia-de-dados/aula06-listas-python)
 
 -  [aula07 - constantes com const](https://github.com/LucianMontibeller/bootcamp-DIO/tree/main/Pot%C3%AAncia-Tech-powered-by-iFood-Ci%C3%AAncia-de-Dados/secao02-dominando-python-ciencia-de-dados/aula08-conjuntos-python)
 
